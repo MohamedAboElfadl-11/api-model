@@ -1,1 +1,6 @@
 fastapi[all]
+numpy
+pandas
+scikit-learn
+tensorflow
+opencv-python
